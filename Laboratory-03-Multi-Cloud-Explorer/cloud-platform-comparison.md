@@ -30,3 +30,14 @@ Google Cloud is a strong choice for Artificial Intelligence, Machine Learning, a
 
 I would personally choose AWS because it provides a wide range of services and gives organizations many options for building and scaling applications. It is also suitable for different types of workloads, from small applications to large enterprise systems.
 
+# Equivalent Cloud Services
+
+The following table matches equivalent services offered by AWS, Microsoft Azure, and Google Cloud Platform.
+
+| Service Category        | AWS        | Azure                          | GCP                            |
+| ----------------------- | ---------- | ------------------------------ | ------------------------------ |
+| **Virtual Machine**     | Amazon EC2 | Azure Virtual Machines         | Compute Engine                 |
+| **Object Storage**      | Amazon S3  | Azure Blob Storage             | Cloud Storage                  |
+| **Identity Management** | AWS IAM    | Microsoft Entra ID             | Cloud Identity                 |
+| **SQL Database**        | Amazon RDS | Azure SQL Database             | Cloud SQL                      |
+| **Kubernetes**          | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
